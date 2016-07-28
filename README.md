@@ -1,9 +1,9 @@
 ## Jedi pack
 
-This pack adds python auto-complement for Emacs. Using with [emacs-live](https://github.com/overtone/emacs-live).
+This pack adds python auto-completion for Emacs. Using with [emacs-live](https://github.com/overtone/emacs-live).
 
 ### Screenshots
-
+![](https://github.com/driventokill/jedi-pack/blob/master/screenshots/complete.png)
 
 
 ### Requirements
