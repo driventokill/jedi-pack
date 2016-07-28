@@ -1,0 +1,15 @@
+[submodule "vendors/emacs-deferred"]
+	path = vendors/emacs-deferred
+	url = git@github.com:kiwanami/emacs-deferred.git
+[submodule "vendors/emacs-ctable"]
+	path = vendors/emacs-ctable
+	url = git@github.com:kiwanami/emacs-ctable.git
+[submodule "vendors/emacs-epc"]
+	path = vendors/emacs-epc
+	url = git@github.com:kiwanami/emacs-epc.git
+[submodule "vendors/emacs-jedi"]
+	path = vendors/emacs-jedi
+	url = git@github.com:tkf/emacs-jedi.git
+[submodule "vendors/emacs-python-environment"]
+	path = vendors/emacs-python-environment
+	url = git@github.com:tkf/emacs-python-environment.git
